@@ -1,5 +1,5 @@
 <div class="grid md:grid-cols-4 grid-cols-1 my-24">
-    <div class="col-span-2 flex justify-center items-center font-bold text-4xl text-center">
+    <div class="col-span-2 flex justify-center items-center font-bold text-4xl text-center pb-4">
         Nos avis<br> clients
     </div>
 

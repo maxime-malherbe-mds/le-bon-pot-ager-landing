@@ -1,9 +1,9 @@
-<div class="my-20">
-    <h2 class="text-6xl font-bold line leading-normal text-center">
+<div class="my-20 px-8">
+    <h2 class="md:text-6xl text-3xl font-bold line leading-normal text-center">
         Jardiner n’a jamais été aussi
         <span class="gradient">accessi</span>ble
     </h2>
-    <span class="subtitle text-xl text-center block">
+    <span class="subtitle text-xl text-center block mt-8">
         Accède depuis ton smartphone à des milliers de potagers autour de toi
         !
     </span>
