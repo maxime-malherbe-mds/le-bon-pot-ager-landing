@@ -34,5 +34,5 @@
 </div>
 
 <div class="text-center my-8">
-    © Tous droit réservés. LE BON POT’AGER. Dévellopé par MDS. Image License Info.
+    © 2022 - Le Bon Pot'ager
 </div>

@@ -23,6 +23,12 @@
     background-color: #1E1C1A;
     color: #fff;
     border: none;
+    transition: .3s;
+}
+
+.store-btn:hover, .btn:hover {
+    background-color: #446D31;
+    transition: .3s;
 }
 
 .gradient {
@@ -39,4 +45,13 @@
 
 .menu a {
     @apply pb-2;
+}
+
+.phone{
+    perspective: 1000px;
+	transform-style: preserve-3d;
+}
+
+#phone-img-container{
+    transition: .1s;
 }

@@ -1,4 +1,4 @@
-<div class="md:px-36 px-16 my-28">
+<div class="md:px-36 px-16 my-28 fade-in">
     <div class="grid md:grid-cols-2 grid-cols-1">
         <div class="video flex justify-center">
             <div>

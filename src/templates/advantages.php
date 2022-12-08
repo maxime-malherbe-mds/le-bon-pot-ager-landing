@@ -1,4 +1,4 @@
-<div class="my-20 px-8">
+<div class="my-20 px-8 fade-in">
     <h2 class="md:text-6xl text-3xl font-bold line leading-normal text-center">
         Jardiner n’a jamais été aussi
         <span class="gradient">accessi</span>ble
