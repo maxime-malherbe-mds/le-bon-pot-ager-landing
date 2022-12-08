@@ -7,10 +7,10 @@
         Accède depuis ton smartphone à des milliers de potagers autour de toi
         !
     </span>
-    <div class="grid grid-cols-5 gap-8 my-20 items-baseline">
+    <div class="md:grid flex flex-col md:items-baseline items-center md:grid-cols-6 grid-cols-1 gap-8 my-20 md:mx-0 mx-16">
         <div class="col-start-2 flex flex-col items-center justify-center">
             <span class="icon"><img src="img/leaf.svg" alt="feuille" /></span>
-            <h3 class="text-2xl font-bold">Trouver un jardin</h3>
+            <h3 class="text-2xl font-bold text-center">Trouver un jardin</h3>
             <span class="text-lg text-center">
                 Avec une simple adresse ou avec ta géolocation, trouve un jardin
                 partagé autour de toi !
@@ -18,14 +18,21 @@
         </div>
         <div class="col-start-3 flex flex-col items-center justify-center">
             <span class="icon"><img src="img/circle.svg" alt="cercle" /></span>
-            <h3 class="text-2xl font-bold">Partage ton potager</h3>
+            <h3 class="text-2xl font-bold text-center">Partage ton potager</h3>
             <span class="text-lg text-center">
                 Propose à la communauté ton propre jardin.
             </span>
         </div>
         <div class="col-start-4 flex flex-col items-center justify-center">
             <span class="icon"><img src="img/lotus.svg" alt="fleur" /></span>
-            <h3 class="text-2xl font-bold">Bons Plans</h3>
+            <h3 class="text-2xl font-bold text-center">Loue ton potager</h3>
+            <span class="text-lg text-center">
+                Propose à la communauté ton propre jardin.
+            </span>
+        </div>
+        <div class="col-start-5 flex flex-col items-center justify-center">
+            <span class="icon"><img src="img/lightning.svg" alt="fleur" /></span>
+            <h3 class="text-2xl font-bold text-center">Récolte tes bénéfices</h3>
             <span class="text-lg text-center">
                 Gagne des bons de réductions et offres suivant tes bonnes actions.
             </span>

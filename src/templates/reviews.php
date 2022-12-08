@@ -1,5 +1,5 @@
-<div class="grid grid-cols-4 my-24">
-    <div class="col-span-2 flex justify-center items-center font-bold text-4xl">
+<div class="grid md:grid-cols-4 grid-cols-1 my-24">
+    <div class="col-span-2 flex justify-center items-center font-bold text-4xl text-center">
         Nos avis<br> clients
     </div>
 
@@ -45,7 +45,7 @@
                 </div>
 
             </div>
-            <div class="slider-gradient absolute w-2/3 h-full right-0 top-0 bg-slate-400"></div>
+            <div class="slider-gradient absolute md:w-2/3 w-full h-full right-0 top-0 bg-slate-400"></div>
         </div>
 
     </div>

@@ -1,10 +1,10 @@
-<div class="my-20 pt-12 pb-24 relative">
-    <div class="text-6xl text-center font-bold mb-24">
+<div class="my-28 pt-12 pb-24 relative">
+    <div class="md:text-6xl text-3xl text-center font-bold mb-24">
         Cultive aujourd’hui<br>
         tes propres légumes !
     </div>
     <div class="flex justify-center">
-        <div class="store-buttons flex gap-4">
+        <div class="store-buttons flex gap-4 md:flex-row flex-col">
             <a href="#" class="store-btn grid-cols-4 px-4 py-2 inline-flex">
                 <img class="col-span-1 pr-4" src="./img/appstore.svg" alt="App Store" />
                 <div class="col-span-3 flex flex-col">

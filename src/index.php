@@ -18,7 +18,11 @@
 
   <?php include 'templates/reviews.php' ?>
 
+  <?php include 'templates/video-section.php' ?>
+
   <?php include 'templates/bottom-section.php' ?>
+
+  <?php include 'templates/footer.php' ?>
 
 </body>
 

@@ -1,4 +1,4 @@
-<div class="w-screen h-screen relative">
+<div class="w-screen min-h-screen relative overflow-x-hidden">
   <div class="w-full h-full grid grid-cols-2 px-36">
     <div class="col-span-1 flex justify-center flex-col gap-8">
       <img src="./img/logo.png" width="250" height="250" alt="Logo" />
